@@ -1,0 +1,30 @@
+From sam at robots.org.uk  Sun Nov 25 23:53:23 2007
+From: sam at robots.org.uk (Sam Morris)
+Date: Sun, 25 Nov 2007 22:53:23 +0000
+Subject: [Serpentine-users] patch to work with gnome-power-manager 2.20
+Message-ID: <1196031203.9081.55.camel@xerces>
+
+gnome-power-manager 2.20 changed the name/path/interface that it can be
+found on the dbus. This patch updates serpentine to match.
+
+-- 
+Sam Morris
+http://robots.org.uk/
+
+PGP key id 1024D/5EA01078
+3412 EA18 1277 354B 991B  C869 B219 7FDB 5EA0 1078
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: plugsuspend_new-interface.patch
+Type: text/x-patch
+Size: 1004 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/serpentine-users/attachments/20071125/68b2d34d/attachment.bin>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: This is a digitally signed message part
+URL: <https://lists.berlios.de/pipermail/serpentine-users/attachments/20071125/68b2d34d/attachment.pgp>
+

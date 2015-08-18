@@ -1,0 +1,33 @@
+From cogumbreiro at users.sourceforge.net  Tue Jun 13 02:05:30 2006
+From: cogumbreiro at users.sourceforge.net (Tiago Cogumbreiro)
+Date: Tue, 13 Jun 2006 00:05:30 +0000
+Subject: [Serpentine-users] Serpentine 0.7 Released
+Message-ID: <402662350606121705r20924f73hf5545bd4ea25bea6@mail.gmail.com>
+
+Serpentine 0.7 was just released!
+
+Changes from 0.6.4:
+ - Support for GStreamer 0.10
+ - Ability to open files through the command line.
+ - Uses Cairo to draw the usage gauge.
+ - Ability to not use GnomeVfs
+ - More robust metadata parsing and not media files handling
+
+There were two beta releases which were not announced, these were
+Serpentine 0.6.9.0 and 0.6.91. Changes from 0.6.91:
+ - implemented key bindings
+ - window geometry and disc size is now persistent
+ - important bug fixes (especially for PPC users)
+
+You can read the detailed ChangeLog here:
+https://developer.berlios.de/project/shownotes.php?release_id=10275
+
+You can download the tarball here:
+
+http://prdownload.berlios.de/serpentine/serpentine-0.7.tar.bz2
+http://prdownload.berlios.de/serpentine/serpentine-0.7.tar.gz
+
+Serpentine now has a mailling list too:
+https://lists.berlios.de/mailman/listinfo/serpentine-users
+
+
